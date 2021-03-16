@@ -1,0 +1,36 @@
+package com.AlpaccaCorp;
+
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("What is your height? (Metres E.G 1.8)");
+        double height = scanner.nextDouble();
+
+        System.out.println("What is your weight? (KG E.G 77)");
+        double weight = scanner.nextDouble();
+
+        double BMI = weight / (height * height);
+
+        System.out.println("BMI = " + BMI);
+
+        if (BMI <= 18.5) {
+            System.out.println("You are in the underweight range!");
+        }
+        else if (BMI >= 18.6 && BMI <= 24.9) {
+            System.out.println("You are in the healthy weight range!");
+        }
+        else if (BMI >= 25 && BMI <= 29.9) {
+            System.out.println("You are in the overweight range!");
+        }
+        else if (BMI >= 29.9) {
+            System.out.println("You are in the obese range!");
+        }
+
+
+    }
+}
