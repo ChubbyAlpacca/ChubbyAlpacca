@@ -1,8 +1,9 @@
+![image](https://github.com/ChubbyAlpacca/ChubbyAlpacca/assets/79229487/ef48bc41-216d-480e-ab8c-496a031ac804)
+
+
 - 👋 Hi, I’m @ChubbyAlpacca (Cam)
 - 👀 I’m interested in anything and everything from web dev, game development, cyber security... I'm 
 a geek ok ! 🤓
-- 🌱 I’m currently learning more about IAC/Cloud tech to give me the upper
-hand when deploying my Java backend and (usually) React UIs!
 <!-- - 💞️ I’m looking to collaborate on anything I can get my teeth in to ! -->
 
 <!---
